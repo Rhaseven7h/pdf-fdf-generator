@@ -1,0 +1,29 @@
+{
+	"name": "pdf-fdf-generator",
+	"version": "0.0.1",
+	"author": "Gabriel Medina <rha7.com@gmail.com>",
+	"description": "Generate PDF files containing forms, filled with values using FDF files and PDFtk.",
+	"main": "lib/pdf-fdf-generator.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Rhaseven7h/pdf-fdf-generator.git"
+	},
+	"keywords": [
+		"pdf",
+		"fdf",
+		"generate",
+		"generator",
+		"filler",
+		"creator",
+		"file",
+		"fill"
+	],
+	"dependencies": {
+		"utf8-fdf-generator": "*"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": "*"
+	}
+
+}
