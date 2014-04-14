@@ -3,7 +3,7 @@ pdf-fdf-generator
 
 Generate PDF files containing forms, filled with values using FDF files and PDFtk for NodeJS.
 
-I had some problems while building iconv as a sub-dependency, pelase try:
+I had some problems while building iconv as a sub-dependency, please try:
 
 ```bash
 npm install --unsafe-perm
