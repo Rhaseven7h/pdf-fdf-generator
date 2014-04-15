@@ -1,6 +1,6 @@
 {
 	"name": "pdf-fdf-generator",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "Gabriel Medina <rha7.com@gmail.com>",
 	"description": "Generate PDF files containing forms, filled with values using FDF files and PDFtk.",
 	"main": "lib/pdf-fdf-generator.js",
