@@ -38,7 +38,6 @@ exports.generateContent = (pdf_path, definitions_array, callback) ->
 				if error?
 					throw "ERROR: While generating combined PDF - #{stderr}"
 				else
-					console.log currently_completed
 					for current in currently_completed
 						fs.unlinkSync current.fdf
 						fs.unlinkSync current.pdf
